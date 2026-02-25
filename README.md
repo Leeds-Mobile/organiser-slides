@@ -1,2 +1,2 @@
 - [leeds.mobile/slides](https://leeds.mobile/slides)
-- (https://leeds-mobile.github.io/organiser-slides/)[https://leeds-mobile.github.io/organiser-slides/]
+- [https://leeds-mobile.github.io/organiser-slides/](https://leeds-mobile.github.io/organiser-slides/)
